@@ -24,8 +24,6 @@ With the help of topic modelling, you will be able to map each ticket onto its r
 
 # Table of contents of the notebook
 
-Sure, here are the extracted texts in bullet point format:
-
 - Introduction
 - Understanding Problem Statement
 - Business Goal
